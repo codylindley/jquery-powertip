@@ -35,8 +35,5 @@
 		"grunt-contrib-compress": "~0.5",
 		"grunt-shell": "~0.6",
 		"grunt-indent": "~0.1"
-	},
-	"scripts": {
-		"test": "grunt travis --verbose"
 	}
 }
